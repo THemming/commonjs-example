@@ -10,7 +10,7 @@ module.exports = function(grunt) {
           }
         },
         files: {
-          'build/my-api.js': ['src/my-api/**/*.js'],
+          'build/my-api.js': ['src/my-api/**/*.js']
         }
       }
     }
