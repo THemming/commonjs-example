@@ -8,6 +8,7 @@
     "karma-chrome-launcher": "^0.1.3",
     "karma-coverage": "0.2.*",
     "karma-jasmine": "0.1.*",
-    "karma-phantomjs-launcher": "0.1.*"
+    "karma-phantomjs-launcher": "0.1.*",
+    "karma-commonjs": "THemming/karma-commonjs"
   }
 }
