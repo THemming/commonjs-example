@@ -3,3 +3,4 @@ client
 coverage
 build/*
 *.log
+.idea
